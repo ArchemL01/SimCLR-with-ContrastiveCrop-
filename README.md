@@ -1,6 +1,6 @@
 # ContrastiveCrop: 面向对比学习的语义感知裁剪方法
 
-基于论文simple framework for contrastive learning of visual representations【https://arxiv.org/abs/2202.03278】中的相关内容，
+基于论文simple framework for contrastive learning of visual representations{https://arxiv.org/abs/2202.03278}中的相关内容，
 本项目实现了 **ContrastiveCrop** 方法，该方法改进了对比学习中的裁剪策略，使其具有更好的语义感知能力。通过在 CIFAR-10 和 CIFAR-100 数据集上的实验，展示了该方法的有效性，并与 SimCLR 基线模型进行了对比。
 
 ---
